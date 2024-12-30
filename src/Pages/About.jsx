@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import { GrYoga } from "react-icons/gr";
+
 import './About.css';
 import { FaEye, FaBullseye } from "react-icons/fa";
 import img from '../Assets/abimg.jpg';

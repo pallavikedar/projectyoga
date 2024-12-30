@@ -1,14 +1,14 @@
 import React from "react";
-import {  Router, Route, Routes } from "react-router-dom";
-import SplashScreen from "./Pages/SplashScreen";
+import {BrowserRouter as  Router, Route, Routes } from "react-router-dom";
+
 import Home from "./Pages/Home";
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<SplashScreen />} />
-        <Route path="/home" element={<Home />} />
+       
+        <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );

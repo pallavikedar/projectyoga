@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/projectyoga/static/css/main.3d2d4640.css",
-    "main.js": "/projectyoga/static/js/main.2ad57277.js",
-    "static/media/slide4.jpg": "/projectyoga/static/media/slide4.ad653aa531204d00f295.jpg",
+    "main.js": "/projectyoga/static/js/main.2cad1314.js",
     "static/media/onlineyoga.jpg": "/projectyoga/static/media/onlineyoga.e049ca96df6a2c847d0b.jpg",
     "static/media/abimg.jpg": "/projectyoga/static/media/abimg.78c25c65e79d68d10785.jpg",
     "static/media/slide2.jpg": "/projectyoga/static/media/slide2.69355b0933739261c821.jpg",
@@ -20,10 +19,10 @@
     "static/media/team.png": "/projectyoga/static/media/team.e415ac59214520b6589e.png",
     "index.html": "/projectyoga/index.html",
     "main.3d2d4640.css.map": "/projectyoga/static/css/main.3d2d4640.css.map",
-    "main.2ad57277.js.map": "/projectyoga/static/js/main.2ad57277.js.map"
+    "main.2cad1314.js.map": "/projectyoga/static/js/main.2cad1314.js.map"
   },
   "entrypoints": [
     "static/css/main.3d2d4640.css",
-    "static/js/main.2ad57277.js"
+    "static/js/main.2cad1314.js"
   ]
 }

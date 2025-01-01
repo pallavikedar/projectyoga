@@ -24,7 +24,7 @@
 
 .content {
   position: absolute;
-  top: 21%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
@@ -180,5 +180,10 @@
   .arrow {
       font-size: 1.2rem;
       padding: 6px;
+  }
+  .content {
+    position: absolute;
+    top: 20%;
+    left: 50%;
   }
 }

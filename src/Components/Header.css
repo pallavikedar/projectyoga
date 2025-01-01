@@ -15,7 +15,7 @@
   }
   
   .logo {
-    width: 130px;
+    width: 170px;
     height: auto;
   
    
@@ -186,6 +186,10 @@
     .side{
       font-size: 40px;
     }
+    .menu-icon {
+      font-size: 1rem;
+      transition: transform 0.3s ease;
+    }
   }
   @media (max-width: 450px) {
     .menu ul {
@@ -196,6 +200,10 @@
     }
     .side{
       font-size: 20px;
+    }
+    .menu-icon {
+      font-size: 1rem;
+      transition: transform 0.3s ease;
     }
   }
   
